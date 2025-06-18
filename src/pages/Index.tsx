@@ -173,7 +173,7 @@ const Index = () => {
               <h3 className="text-2xl font-bold text-gray-800 mb-2 animate-fade-in [animation-delay:4800ms]">P. Laxmi Priya</h3>
               <p className="text-gray-600 mb-4 animate-fade-in [animation-delay:5000ms]">Student ID: 24911A0547</p>
               <Badge variant="outline" className="bg-blue-50 text-blue-700 border-blue-200 animate-scale-in [animation-delay:5200ms]">
-                AI Enthusiast & Researcher
+                Tech Blogger & Content Creator
               </Badge>
             </CardContent>
           </Card>
@@ -184,7 +184,7 @@ const Index = () => {
       <footer className="bg-gray-900 text-white py-12 animate-fade-in [animation-delay:5400ms]">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <p className="text-gray-400">
-            © 2024 Generative AI Blog. Exploring the future of artificial intelligence and creativity.
+            © 2025 Generative AI Blog. Exploring the future of artificial intelligence and creativity.
           </p>
         </div>
       </footer>
