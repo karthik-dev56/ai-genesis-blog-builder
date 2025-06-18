@@ -150,10 +150,7 @@ const Index = () => {
                   <p className="text-gray-700 leading-relaxed mb-4">
                     Generative AI isn't just a technological advancement—it's a shift in how we create and collaborate. As it continues to evolve, the focus must remain on harnessing its potential to enhance human creativity, not replace it.
                   </p>
-                  <Button className="mt-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 hover-scale animate-fade-in [animation-delay:4000ms]">
-                    Learn More About AI
-                    <ArrowRight className="ml-2" size={16} />
-                  </Button>
+                  
                 </div>
                 <img 
                   src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3882&q=80" 
